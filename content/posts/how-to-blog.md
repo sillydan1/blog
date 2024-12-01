@@ -104,18 +104,25 @@ Then we can use this new shortcode like so:
 
 {{< centered image="/example.png" >}}
 
-Yes! Now we're cooking with gas! ... or atleast cooking with something.
+Yes! Now we're cooking with gas! ... or atleast cooking with something. Note that this image centering trick does not work in [reader mode](https://support.mozilla.org/en-US/kb/firefox-reader-view-clutter-free-web-pages).
+
+## Conclusion
+We have made a docker file for automatically downloading, generating and serving a simple `hugo` blog site.
+Personally, I would've liked the `static` and `shortcodes` directories to not exist, but blogposts need images and it needs to center them, so they are a necessary evil.
+Could we make the directory structure better and cleaner? Probably yes.
+Will I make it better for this blog in the future? Probably yes.
+Will I make another post when I do that? Probably yes!
 
 If you want to just manually build and run docker image on your website server, feel free to stop reading here.
-The next section really elevates the publishing flow to a whole another level though.
+The next section concerns about hosting, orchestrating and deploying the site automatically, but it's totally not required.
 
-# Hosting and Deployment
+# Deployment
 Being able to build and launch the docker image is nice and can suffice for smaller projects.
 Yes, this blog is a small project and the manual method should be more than enough, but I also play [factorio](https://store.steampowered.com/app/427520/Factorio/) (highly recommend it!), so I _hvae_ to automate everything that is tedious.
+I also have other projects that I host on my VPS (Virtual Private Server) such my portfolio site [gtz.dk](https://gtz.dk) and a [gitea instance](https://git.gtz.dk/) amongst other things.
 
 ## Continuous Integration
-This section 
-I am using my [personal gitea instance](git.gtz.dk/agj/blog) to host the source code for this blog - which means that I will be using the integrated CI system there, but you can use whichever CI service you'd like.
+I am using my personal [gitea instance](https://git.gtz.dk/agj/blog) to host the source code for this blog - which means that I will be using the integrated CI system there, but you can use whichever CI service you'd like.
 The general concepts of the workflow should be fairly easy to translate to any kind of CI
 
 <!-- TODO: Implement the fucking thing -->
