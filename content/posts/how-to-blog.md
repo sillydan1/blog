@@ -209,3 +209,5 @@ Just focus on writing posts and publish them by merging to `main`. Nice and auto
 ## P.S.
 You may notice that the CI script on the real blog repository is a bit more complicated than what we've went through in this post, but the extra complexity only comes from some stupid technicalities regarding my build server being based on ARM rather than x86 (raspberry pi).
 The script we made here is plenty good to get you started.
+
+{{< centered image="/6616144.png" >}}
