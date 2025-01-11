@@ -5,4 +5,7 @@ title = 'Example'
 tags = ['tutorial']
 categories = ['technical']
 +++
+
 content goes here.
+
+{{< centered image="/6616144.png" >}}
