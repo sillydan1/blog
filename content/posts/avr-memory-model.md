@@ -24,10 +24,8 @@ I also assume that GNU/Linux is being used on the development computer.
 
 The [avr-gcc](http://www.nongnu.org/avr-libc/user-manual/pages.html) compiler chain is an open source effort to have
 C/C++ for AVR Atmel chips. They do provide some rudimentary C++ support, but there's no STL and the `new` and `delete`
-keywords are not implemented by default. Even purely virtual functions doesn't work out of the box. 
-
-**But don't fret!** There are ways to implement those features manually. See my [other]() post about getting the build
-environment up and running.
+keywords are not implemented by default. Even purely virtual functions doesn't work out of the box. These things can be
+added manually though.
 
 ## The Memory Model
 
