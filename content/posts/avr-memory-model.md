@@ -69,7 +69,7 @@ gdb: > x/16xb my_heap_object
 ```
 
 The first bytes at address `0x800100` are `0a` and `00`. These bytes are the *free-list* entry and explains how "big"
-the object is. When reading this, we have to remember that the model is littleengine-based (meaning that the bytes are
+the object is. When reading this, we have to remember that the model is little endian-based (meaning that the bytes are
 switched), 
 so we actually have the value of `0x000a`, meaning `10` in decimal. This makes a lot of sense, since we allocated 5
 `int`s, that is of size 2 (16bit integers). 
