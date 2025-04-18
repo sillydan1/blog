@@ -9,17 +9,17 @@ categories = ['opinion']
 ## Disclaimer
 
 This was written as a student project as part of our ethics course, where we had to write an opinion piece on anything
-we wanted in the field of computer science. Note that this was before *LLM*'s was a thing.
+we wanted in the field of computer science. Note that this was before *LLM*'s was a thing. I also apologize if the
+wording is off - this was written in an afternoon as a rush-job. I still think it's an interesting read though.
 
 # Computation in Nature
 
 > "If you ever think your code is bad, just remember that CPUs are just rocks that we tricked into thinking"
 
-**Does the nature compute, or the computation is something that only the humans are
-doing? If so, what is it about?**
+**Does nature compute, or is computation something that only humans are doing? If so, what is it about?**
 
 To answer this question, we would need to define what the terms used in it even means.  If you look up the definition
-of the word ’compute’ on Merriam Websters dictionary, you will find that it primarily means _"to determine
+of the word ’compute’ on Merriam Websters dictionary, you find that it primarily means _"to determine
 especially by mathematical means"_. This definition mentions a usage of mathematics, which suggests a close bond
 between these concepts.  What would it mean to determine something? I would argue that it means to make a decision
 based on either prior experience, data or calculations. This implies that computation have a focus on deciding
@@ -33,20 +33,20 @@ mentions that flower petals rarely exceeds a quantity of five. We even see the f
 seeds](http://popmath.org.uk/rpamaths/rpampages/sunflower.html).
 
 An example of computation in nature is actually very easy to find. Take a rabbit, or any other smaller prey. A rabbit
-is constantly observing and reacting to the sorrounding environment, otherwise it will get eaten by predators or fall
+is constantly observing and reacting to the sorrounding environment, otherwise it gets eaten by predators or fall
 into a lake and drown or any other scenario involving death. You could argue that the rabbit is constantly asking
 questions about what to: _"Should I run away?"_, _"Should I keep eating?"_, _"Should I be eating this?"_ etc. The
 rabbit may not be consciously aware of these queries, but nevertheless, it is answering to them through actions.
 
 In Empiricism, the concept of a mind being a blank slate (in this case we are talking about a human mind, not
-a rabbit’s) and experiences gets remembered is very much applicable here. This trait means that a human mind
-has a memory, i.e. It can remember old conclusions and recall them when desired. We can actually prove that this
-trait is not exclusive to humans, since we can observe other mammals (and even fish and reptiles) demonstrating
-the usage of memory. A prime example is the elephant.
+a rabbit’s), which remembers experiences throughout it's life is very much applicable here. This trait means that a
+human mind has a memory, i.e. It can remember old conclusions and recall them when desired. We can actually prove that
+this trait is not exclusive to humans, since we can observe other mammals (and even fish and reptiles) demonstrating
+the usage of memory. A prime example is the elephant, but pretty much any animal applies here.
 
-In Rationalism, we see a similar pattern of using the method of deduction to find conclusions and deduct new
-conclusions (memory). However, if you were to believe the Rationalists, getting the data needed for computation
-in nature, may be a tricky task. We previously had an assumption, that we could trust our senses and that other
+In Rationalism, we see a similar pattern that mimics memory - using the method of deduction to find conclusions and
+deduct new conclusions. However, if you were to believe the Rationalists, getting the data needed for computation
+in nature, may be a tricky task. We previously had an assumption that we could trust our senses and that other
 creatures also had senses. In Rationalism the only thing we can trust is the fact that we are doubting. Since we
 can’t say anything about if the rabbit is doubting everything. This is where the rabbit example breaks down a
 little, but we are not completely stuck here. Humans are mammals and mammals are a type of animal. Animals are
@@ -78,7 +78,7 @@ to because of the time era he was in and that AI as a field was not as big (if a
 
 Turing finishes the article with the notion that there is still a lot of work to be done in the field of AI and it
 is a fun contrast to see what arguments and thoughts a mind like his had back in the fifties, compared to modern
-AI can offer.  Will humans ever be able to create a truly conscious artificial mind? And will we ever be able to
+AI can offer. Will humans ever be able to create a truly conscious artificial mind? And will we ever be able to
 test it properly?
 
 If you believe the Mathematical Realists, mathematics is a thing that exists independently of humans, and can be
