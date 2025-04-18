@@ -10,7 +10,7 @@ In this post, we will be going over how to set up a [portainer](https://www.port
 and how to use it. This is ideal if you want to host a personal website, a [blog](/posts/how-to-blog), a personal
 [github](git.gtz.dk) or whatever your development heart desire.
 If you choose to follow along, by the end of it, you will have an environment where you can just add or remove docker
-based services at a whim.
+based services at a whim using a nice web-based interface.
 
 I assume that you already know about `docker` and `docker compose` yaml syntax. If you don't, may I recommend the
 wonderful official [docker tutorial](https://docs.docker.com/get-started/workshop/) - once you're done with that come
