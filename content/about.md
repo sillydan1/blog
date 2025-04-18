@@ -3,10 +3,10 @@ title: About gtz blog
 author: Asger Gitz-Johansen
 ---
 
-I am a software engineer from Denmark working at [GomSpace](https://gomspace.com/home.aspx).
-This is just my simple blog that I use for letting out "blogging-steam".
-I write GNU/Linux based tutorials and sometimes I write opinion pieces.
-I hope you find my stuff useful.
+I am a software engineer from Denmark working at [GomSpace](https://gomspace.com/home.aspx). This is just my simple
+blog that I use for letting out "blogging-steam". I write GNU/Linux based tutorials and sometimes I write opinion
+pieces. These posts are mostly for my own sake, but I hope you find my stuff useful.
+
 If you want more from me, check my links:
 
  - [GitHub](https://github.com/sillydan1)
