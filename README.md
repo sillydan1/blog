@@ -20,12 +20,14 @@ docker run --rm -it -p 8080:8080 wip hugo serve --bind 0.0.0.0 --port 8080
        should be a laser printer, as inkjet is stupid.
  - [ ] A truly FOSS eink reader.
  - [ ] VIM Bindings everywhere please
+ - [ ] trying to use a MIDI controller as a piano on Linux is insanity
 
 ### Digital Soverignty
  - [x] how to host a blog
  - [ ] how to securely "self-host" using a VPS, portainer and traefik
  - [x] how to configure neomutt
  - [ ] how to securely host a mail server
+ - [ ] how to private tracker with a NAS
 
 ### Old sillyblog
  - [x] Avr memory model
