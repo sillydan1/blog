@@ -1,7 +1,7 @@
 +++
 date = '2025-01-27'
-draft = true
-title = 'Softmod your Xbox Original Today'
+draft = false
+title = 'Softmod your Original Xbox Today'
 tags = ['technical', 'games', 'modding']
 categories = ['technical']
 +++
@@ -55,7 +55,8 @@ But I was not able to get any connection. I kept trouble-shooting and then I rea
 Microsoft had closed the Xbox Original live service down. What a bummer dude. Welp. At least I had the Halo 2 campaign.
 
 ## Getting a Taste for Modding
-Much later. I am now in my ??'s.
+Years later. I am now in highschool and is building my own gaming PC, constantly fixing my old 
+
 
 TODO:
  - Building my own PC

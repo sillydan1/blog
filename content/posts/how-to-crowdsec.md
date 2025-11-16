@@ -1,6 +1,6 @@
 +++
 date = '2025-04-15'
-draft = true
+draft = false
 title = "How to Set Up Crowdsec"
 tags = ["howto", "tutorial", "web", "securoty"]
 categories = ["technical"]
